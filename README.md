@@ -1,2 +1,7 @@
 # piano
-Piano | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Piano
+- Tutorial by freeCodeCamp
+
+## Tags
+html, css, front-end web development, tutorial
